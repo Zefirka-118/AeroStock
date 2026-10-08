@@ -1,0 +1,19 @@
+# Build
+target/
+*.class
+
+# Datos generados en tiempo de ejecución
+inventario.txt
+
+# NetBeans / IDE
+nbproject/private/
+nb-configuration.xml
+.nb-gradle/
+.idea/
+*.iml
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
